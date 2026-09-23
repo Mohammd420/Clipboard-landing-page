@@ -96,7 +96,7 @@ header {
 
 @media (max-width:768px) {
     header {
-        background-image: url('/images/bg-header-mobile.png');
+        background-image: url('images/bg-header-mobile.png');
     }
 
     .btns {
